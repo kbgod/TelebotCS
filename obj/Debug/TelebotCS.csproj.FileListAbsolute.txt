@@ -1,5 +1,0 @@
-D:\Projects\TelebotCS\TelebotCS\bin\Debug\TelebotCS.dll
-D:\Projects\TelebotCS\TelebotCS\bin\Debug\TelebotCS.pdb
-D:\Projects\TelebotCS\TelebotCS\obj\Debug\TelebotCS.csproj.CoreCompileInputs.cache
-D:\Projects\TelebotCS\TelebotCS\obj\Debug\TelebotCS.dll
-D:\Projects\TelebotCS\TelebotCS\obj\Debug\TelebotCS.pdb
